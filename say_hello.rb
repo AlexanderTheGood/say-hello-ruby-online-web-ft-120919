@@ -1,7 +1,6 @@
 def say_hello(name)
-end
+  puts = "hello"
 
-
-puts say_hello("Hello Ruby Programmer!")
+say_hello("Hello Ruby Programmer!")
 
 end
